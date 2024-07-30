@@ -3,6 +3,15 @@
 
 
 
+
+
+### Configure Python Interpreter:
+
+
+> Add New Interpreter > Add Local Interpreter > [Dialog] OK
+
+> Install Packages
+
 ### to run with terminal:
 
 

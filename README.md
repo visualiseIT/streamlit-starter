@@ -1,7 +1,7 @@
 # streamlit-starter
 ## Streamlit starter project for Pycharm
 
-
+![Screenshot1.png](Screenshot1.png)
 
 ### to run with terminal:
 

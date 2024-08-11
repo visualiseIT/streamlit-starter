@@ -1,5 +1,5 @@
 # streamlit-starter
-## Streamlit starter project for Pycharm
+## Simple StockPrice App built with Streamlit in Pycharm
 
 ![Screenshot1.png](Screenshot1.png)
 

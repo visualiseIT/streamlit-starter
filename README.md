@@ -1,9 +1,18 @@
-# streamlit-starter
+# Streamlit Starter App
 ## Simple StockPrice App built with Streamlit in Pycharm
 
 ![Screenshot1.png](Screenshot1.png)
 
+st.line_chart(data['Close'])
+st.line_chart(data['Volume'])
 
+## to run with terminal:
+
+`pip install streamlit`
+
+`streamlit run streamlit_example.py`
+
+## to run with Pycharm run/debug config:
 
 ### Configure Python Interpreter:
 
@@ -12,13 +21,7 @@
 
 > Install Packages
 
-### to run with terminal:
-
-
-`streamlit run streamlit_example.py
-`
-
-### to run with Pycharm run/debug config:
+### Create Run/Debug config:
 
 ![Screenshot.png](Screenshot.png)
 
